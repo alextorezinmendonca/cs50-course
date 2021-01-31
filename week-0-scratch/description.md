@@ -11,3 +11,4 @@
     -   this is the game magic, you can play, but you can't win;
 
     -   To restart when the own hit on you, just hit space key;
+    
